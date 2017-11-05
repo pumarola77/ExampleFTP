@@ -1,0 +1,11 @@
+C:\Users\Bazinga\Documents\VisualStudio\BuildingWeb\ExampleFTP\ExampleFTP\bin\Debug\netcoreapp1.1\ExampleFTP.deps.json
+C:\Users\Bazinga\Documents\VisualStudio\BuildingWeb\ExampleFTP\ExampleFTP\bin\Debug\netcoreapp1.1\ExampleFTP.runtimeconfig.json
+C:\Users\Bazinga\Documents\VisualStudio\BuildingWeb\ExampleFTP\ExampleFTP\bin\Debug\netcoreapp1.1\ExampleFTP.runtimeconfig.dev.json
+C:\Users\Bazinga\Documents\VisualStudio\BuildingWeb\ExampleFTP\ExampleFTP\bin\Debug\netcoreapp1.1\ExampleFTP.dll
+C:\Users\Bazinga\Documents\VisualStudio\BuildingWeb\ExampleFTP\ExampleFTP\bin\Debug\netcoreapp1.1\ExampleFTP.pdb
+C:\Users\Bazinga\Documents\VisualStudio\BuildingWeb\ExampleFTP\ExampleFTP\obj\Debug\netcoreapp1.1\ExampleFTP.AssemblyInfo.cs
+C:\Users\Bazinga\Documents\VisualStudio\BuildingWeb\ExampleFTP\ExampleFTP\obj\Debug\netcoreapp1.1\ExampleFTP.dll
+C:\Users\Bazinga\Documents\VisualStudio\BuildingWeb\ExampleFTP\ExampleFTP\obj\Debug\netcoreapp1.1\ExampleFTP.pdb
+C:\Users\Bazinga\Documents\VisualStudio\BuildingWeb\ExampleFTP\ExampleFTP\obj\Debug\netcoreapp1.1\ExampleFTP.csprojResolveAssemblyReference.cache
+C:\Users\Bazinga\Documents\VisualStudio\BuildingWeb\ExampleFTP\ExampleFTP\obj\Debug\netcoreapp1.1\ExampleFTP.csproj.CoreCompileInputs.cache
+C:\Users\Bazinga\Documents\VisualStudio\BuildingWeb\ExampleFTP\ExampleFTP\obj\Debug\netcoreapp1.1\ExampleFTP.AssemblyInfoInputs.cache
